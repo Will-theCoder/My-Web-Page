@@ -1,0 +1,84 @@
+/*Aligns the assigned text to the center*/
+.align-center {
+  text-align: center;
+}
+/*Changes the header background color*/
+header {
+  background-color: black;
+}
+/*Changes the attributes of the "h1" header*/ 
+h1 {
+  color: lightskyblue;
+  font-size: 40px;
+  padding-top: 20px;
+  font-family: "Comic Sans MS"
+}
+/*Changes the attributes of the "h3" header*/ 
+h3 {
+  color: lightskyblue;
+  padding-bottom: 30px;
+  font-family: Arial;
+}
+/*Changes the color of the main display background*/
+main {
+  background-color: gray;
+}
+
+h2.align-center {
+  padding: 5px;
+  font-family: 'Comic Sans MS';
+}
+
+footer {
+  background-color: black;
+  color: lightskyblue;
+  font-family: Arial;
+  text-align: center;
+}
+
+p {
+  margin: 20px;
+  height: -1px;
+  font-family: Arial;
+}
+
+h2 {
+  margin: 10px;
+  height: -10;
+  font-size:25px;
+  font-family: "Comic Sans MS"
+}
+
+div {
+  text-align: center;
+}
+
+a:hover {
+  color: yellow;
+  font-family: Arial;
+}
+
+p.align-center {
+  font-family: Arial;
+}
+
+ul {
+  font-family: Arial;
+}
+
+nav {
+  padding-left: 10px;
+  font-family: Arial;
+}
+
+a:link {
+  background-color: lightskyblue;
+  color: black;
+  padding: 10px 15px;
+  text-align: center;
+  display: inline-block;
+}
+
+ol {
+  font-family: Arial
+}
